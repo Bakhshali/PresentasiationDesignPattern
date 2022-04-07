@@ -1,0 +1,14 @@
+C:\Users\Ali\source\repos\Visitors\Visitors\bin\Debug\netcoreapp3.1\Visitors.exe
+C:\Users\Ali\source\repos\Visitors\Visitors\bin\Debug\netcoreapp3.1\Visitors.deps.json
+C:\Users\Ali\source\repos\Visitors\Visitors\bin\Debug\netcoreapp3.1\Visitors.runtimeconfig.json
+C:\Users\Ali\source\repos\Visitors\Visitors\bin\Debug\netcoreapp3.1\Visitors.runtimeconfig.dev.json
+C:\Users\Ali\source\repos\Visitors\Visitors\bin\Debug\netcoreapp3.1\Visitors.dll
+C:\Users\Ali\source\repos\Visitors\Visitors\bin\Debug\netcoreapp3.1\Visitors.pdb
+C:\Users\Ali\source\repos\Visitors\Visitors\obj\Debug\netcoreapp3.1\Visitors.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\Visitors\Visitors\obj\Debug\netcoreapp3.1\Visitors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\Visitors\Visitors\obj\Debug\netcoreapp3.1\Visitors.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\Visitors\Visitors\obj\Debug\netcoreapp3.1\Visitors.AssemblyInfo.cs
+C:\Users\Ali\source\repos\Visitors\Visitors\obj\Debug\netcoreapp3.1\Visitors.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Visitors\Visitors\obj\Debug\netcoreapp3.1\Visitors.dll
+C:\Users\Ali\source\repos\Visitors\Visitors\obj\Debug\netcoreapp3.1\Visitors.pdb
+C:\Users\Ali\source\repos\Visitors\Visitors\obj\Debug\netcoreapp3.1\Visitors.genruntimeconfig.cache
